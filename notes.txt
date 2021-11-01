@@ -1,0 +1,8 @@
+#how to generate the requirement file
+1) install
+pip install pipreqs
+2) generate(there is a dot at the end)
+pipreqs .
+
+
+java -jar k-cloud-run-builder-all.jar py_orc_service prject-id 1 true

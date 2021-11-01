@@ -1,0 +1,7 @@
+version: '2.1'
+
+services:
+  ocr-service:
+    image: py_orc_service:latest
+    ports:
+      - 8080:8080
